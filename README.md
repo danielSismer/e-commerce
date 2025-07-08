@@ -14,11 +14,8 @@ Este é um projeto **didático** de um sistema de e-commerce feito com **Spring 
 
 - 🧑‍🤝‍🧑 Cadastro e login de usuários (com roles e segurança)
 - 📦 CRUD completo de produtos
-- 🔍 Busca e filtros inteligentes
 - 🛒 Carrinho de compras funcional
 - 💳 Processamento de pedidos
-- 🔐 Segurança com Spring Security
-- 📄 Documentação da API com Swagger
 - 💾 Integração com banco relacional (MySQL/PostgreSQL)
 
 ---
@@ -29,7 +26,7 @@ Este é um projeto **didático** de um sistema de e-commerce feito com **Spring 
 - Spring Boot 🌱
 - Spring Data JPA 📚
 - Spring Security 🔐
-- Banco relacional (MySQL/PostgreSQL)
+- Banco relacional (MySQL)
 - Maven / Gradle ⚙️
 - Swagger (OpenAPI) 📜
 

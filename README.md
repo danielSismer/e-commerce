@@ -1,4 +1,4 @@
-e# 🚀 Projeto E-commerce com Spring Boot (Em Desenvolvimento!) 🛒
+# 🚀 Projeto E-commerce com Spring Boot (Em Desenvolvimento!) 🛒
 
 ---
 
